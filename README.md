@@ -4,6 +4,11 @@ Taskly to prosta, responsywna aplikacja do zarządzania zadaniami (listami i zad
 
 ---
 
+## Demo
+https://tasklybf.netlify.app/
+
+---
+
 ## Funkcje
 
 - Tworzenie wielu list zadań
