@@ -89,7 +89,7 @@ export const ToDoBox = ({ title, id, lists, setLists }) => {
           </button>
         </div>
       </div>
-      <div className="w-[95%] lg:w-[95%] flex flex-col lg:flex-row lg:h-10 flex-wrap gap-5">
+      <div className="w-[95%] lg:w-[95%] flex flex-col lg:flex-row lg:min-h-10 flex-wrap gap-5">
         <ToDoButton
           label="Wszystkie"
           color="#ffb300"
